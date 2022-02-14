@@ -235,7 +235,8 @@ Similarly as we previously did for Denny's, calculate the number of La Quinta lo
 **Response**:
 
 
-![](README-img/noun_pause.png) **Planned Pause Point**: If you have any questions, contact your instructor. Otherwise feel free to continue on.
+
+<img src="README-img/noun_pause.png" alt="pause" width = "20"/> <b>Planned Pause Point</b>: If you feel that you have a good understanding of these commands, feel free to start working on your project. The remainder of this activity will deal with creating map data visualizations.
 
 ### Mapping locations
 

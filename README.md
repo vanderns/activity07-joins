@@ -23,8 +23,7 @@ new [RStudio Project](https://rstudio.gvsu.edu/)
 
 <img src="README-img/noun_pause.png" alt="pause" width = "20"/>
 <b>Planned Pause Point</b>: If you have any questions, contact your
-instructor or another group. We will complete this Activity during our
-next class session
+instructor or another group.
 
 ## ☑️ Task 2: Complete the RMarkdown File
 
