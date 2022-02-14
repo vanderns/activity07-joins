@@ -135,11 +135,9 @@ For example, your instructor could see if there are any Denny's in any the state
 
 ```{r}
 dennys %>%
-  mutate(
-    bradford_lived = case_when(
-      state %in% c("MI", "NC", "IL", "ME") ~ "Yes",
-      TRUE ~ "No")
-    )
+  mutate(bradford_lived = case_when(
+    state %in% c("MI", "NC", "IL", "ME") ~ "Yes",
+    TRUE ~ "No"))
 ```
 
 `case_when` looks to see if any of the `dennys$state`s are in the vector of state abbreviations that I have lived (i.e., `c("MI", "NC", "IL", "ME")`).
